@@ -1,6 +1,6 @@
 :root{
     --background-body-color-1: #ffffea;
-    --background-body-color-2: #495453;
+    --background-body-color-2: #2f615e;
     --background-header: #d4d489;
     --background-footer: #d4d489;
     --background-color-buttom:#b5b569;
@@ -30,7 +30,7 @@ body {
 
 body.tema-dois{
     background-color: var(--background-body-color-2);
-    color: var(--text-color-2);
+
 }
 
 ul {
@@ -103,7 +103,8 @@ main .cards-container {
 
 main .card-proverbios {
     background-color: var(--background-color-card);
-    width: 240px;
+    width: 280px;
+    height: 350px;
     padding: 1rem;
     display: flex;
     flex-direction: column;
