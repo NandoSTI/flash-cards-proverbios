@@ -1,10 +1,11 @@
 :root{
     --background-body-color-1: #ffffea;
-    --background-body-color-2: #2f615e;
+    --background-body-color-2: #392a35;
     --background-header: #d4d489;
     --background-footer: #d4d489;
     --background-color-buttom:#b5b569;
     --background-color-card:#fad089;
+    --background-color-card-2:#d4d489;
     --text-color-header-title: #8f4254;
     --text-color-header-bubtitle: #b26f7f;
     --buttom-color:#8f4254;
@@ -62,7 +63,7 @@ header {
 }
 
 .header-subtitle {
-    color: var(--text-color-header-bubtitle);
+    color: var(--text-color-header-title);
     font-weight: bold;
     letter-spacing: 5px;
 }
@@ -80,7 +81,6 @@ header {
     transform: scale(1.10);
     transition: .4s;
     border-radius: 5px;
-    background-color: var(--background-color-buttom);
     cursor: pointer;
 }
 
@@ -111,10 +111,23 @@ main .card-proverbios {
     align-items: center;
     gap: 2rem;
     border-radius: 8px;
-    box-shadow: 6px 3px 3px rgb(226, 219, 219);
+    box-shadow: 2px 2px 2px rgb(109, 108, 108);
+}
+
+/* CARD - LINK */
+
+
+main .card-proverbios:hover{
+    transform: scale(1.03);
+    background-color: var(--background-color-card-2);
+    transition: .2s;
 }
 
 main .title-card {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: .3rem;
+    margin-top: 1rem;
     font-weight: bold;
     font-size: 1.2rem;
     display: flex;
@@ -125,10 +138,21 @@ main .tema-card {
     text-transform: uppercase;
     font-weight: 500;
     margin-top: 2rem;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: .3rem;
 }
+
 
 main .description {
     line-height: 1.6rem;
+    padding: 1.2rem;
+}
+
+/* EXPLICAÇÂO VERSÌCULO */
+
+.explicacao {
+    display: none;
 }
 
 /* FOOTER */
@@ -140,7 +164,7 @@ footer {
     line-height: 2rem;
 }
 
-.raise {
+footer .raise {
     letter-spacing: 5px;
 }
 
