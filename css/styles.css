@@ -1,5 +1,6 @@
 :root{
     --background-body-color-1: #ffffea;
+    --background-botao-explicacao: #f5f5bc;
     --background-body-color-2: #392a35;
     --background-header: #d4d489;
     --background-footer: #d4d489;
@@ -75,7 +76,10 @@ header {
     padding: 1.2rem;
     border: none;
     background: none;
+    border: 1px solid var(--text-color-header-bubtitle);
+    border-radius: 5px;
 }
+
 
 .botao-tema:hover{
     transform: scale(1.10);
@@ -95,8 +99,42 @@ main {
 main .cards-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
     justify-content: center;
+    gap: 6rem;
+}
+
+
+
+/* ESPAÇO ENTRE OS CARDS E OS CONTAINERS */
+
+main .div-explicacao {
+    margin-top: 2rem;
+}
+main .div-explicacao-card-dois {
+    margin-top: .4rem;
+}
+main .div-explicacao789 {
+    margin-top: -1.5rem;
+}
+main .div-explicacao101112 {
+    margin-top: .4rem;
+}
+
+
+
+main .botao-explicacao {
+    background-color: var(--background-botao-explicacao);
+    padding: .8rem;
+    width: 300px;
+    border-radius: 5px; 
+    font-size: 1rem;
+}
+
+main .botao-explicacao:hover{
+    transform: scale(1.03);
+    background-color: var(--background-color-card-2);
+    transition: .2s;
+    cursor: pointer;
 }
 
 /* CARD - LI */
@@ -114,14 +152,9 @@ main .card-proverbios {
     box-shadow: 2px 2px 2px rgb(109, 108, 108);
 }
 
+
 /* CARD - LINK */
 
-
-main .card-proverbios:hover{
-    transform: scale(1.03);
-    background-color: var(--background-color-card-2);
-    transition: .2s;
-}
 
 main .title-card {
     border: 1px solid;
@@ -151,9 +184,6 @@ main .description {
 
 /* EXPLICAÇÂO VERSÌCULO */
 
-.explicacao {
-    display: none;
-}
 
 /* FOOTER */
 
@@ -162,10 +192,15 @@ footer {
     padding: 3rem;
     text-align: center;
     line-height: 2rem;
+    margin-top: 4em;
 }
 
 footer .raise {
     letter-spacing: 5px;
+}
+
+footer .mail {
+    letter-spacing: 2px;
 }
 
 
