@@ -64,8 +64,6 @@ header {
 }
 
 .header-subtitle {
-    border: 1px solid var(--text-color-header-bubtitle);
-    border-radius: 2px;
     color: var(--text-color-header-title);
     text-transform: uppercase;
     font-weight: bold;
