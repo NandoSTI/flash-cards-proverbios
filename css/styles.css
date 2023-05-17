@@ -77,8 +77,6 @@ header {
     padding: 1.2rem;
     border: none;
     background: none;
-    border: 1px solid var(--text-color-header-bubtitle);
-    border-radius: 5px;
 }
 
 
