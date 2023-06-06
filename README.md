@@ -1,6 +1,6 @@
 # Flash Cards GC Kennedy
 
-## Desenvolvi esse projeto no intuito de otimizar o aprendizado bem como a exegese desses versículos. Estamos sempre com o celular em mãos em qualquer lugar e em qualquer ocasião. Assim, seja parado no trânsito, no carro de aplicatico, em uma fila de espera etc... , poderemos facilmente ler e entender a explicação sobre cada versículo e memorizar facilmente. Essa é a primeira parte de um projeto bem maior."
+## Desenvolvi esse projeto no intuito de otimizar o aprendizado bem como a exegese desses versículos. Estamos sempre com o celular em mãos em qualquer lugar e em qualquer ocasião. Assim, seja parado no trânsito, no carro de aplicatico, em uma fila de espera etc... , poderemos facilmente ler e entender a explicação sobre cada versículo e memorizar facilmente. Esse é o primeiro passo de um projeto muito maior e que envolverá muitas tecnologias e muito apredizado."
 
 
 ## Índice
