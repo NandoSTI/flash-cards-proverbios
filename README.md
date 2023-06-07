@@ -37,7 +37,7 @@
 
 ### O que eu aprendi
 
-Nesse projeto envolvendo HTML, CSS e JavaScript, aprendi conceitos importantes. Através do CSS, aprendi a dar estilo e formatar elementos HTML, explorando propriedades como cores, fontes, posicionamento,animações e rsponsividade. 
+Nesse projeto envolvendo HTML, CSS e JavaScript, aprendi conceitos importantes. Através do CSS, aprendi a dar estilo e formatar elementos HTML, explorando propriedades como cores, fontes, posicionamento,animações e responsividade. 
 
 Com JavaScript pude adicionar interatividade e dinamismo ao projeto. Com ele, aprendi a manipular elementos HTML, responder a eventos do usuário, criar animações e implementar lógica complexa.
 
