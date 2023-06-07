@@ -29,6 +29,9 @@
 
 [<img src="responsiveflashcardsproverbios.gif" alt="Exibindo responsividade em dois tamanhos de tela">]
 
+### Links
+
+- Site URL: [https://flash-cards-proverbios.vercel.app/]
 
 ### Construído com
 
