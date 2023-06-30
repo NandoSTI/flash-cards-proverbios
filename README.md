@@ -23,11 +23,11 @@
 
 #### Tela Desktop
 
-[<img src="desktopflashcardsproverbios.gif" alt="Tela desktop exibindo funcionalidades">]
+<img src="desktopflashcardsproverbios.gif" alt="Tela desktop exibindo funcionalidades">
 
 #### Tela Responsiva
 
-[<img src="responsiveflashcardsproverbios.gif" alt="Exibindo responsividade em dois tamanhos de tela">]
+<img src="responsiveflashcardsproverbios.gif" alt="Exibindo responsividade em dois tamanhos de tela">
 
 ### Links
 
