@@ -31,7 +31,7 @@
 
 ### Links
 
-- Site URL: [https://flash-cards-proverbios.vercel.app/]
+- Site URL: https://flash-cards-proverbios.vercel.app/
 
 ### Construído com
 
