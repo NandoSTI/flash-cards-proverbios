@@ -41,7 +41,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
 </div>
 
-### O que eu aprendi
+### O que aprendi
 
 Nesse projeto envolvendo HTML, CSS e JavaScript, aprendi conceitos importantes. Através do CSS, aprendi a dar estilo e formatar elementos HTML, explorando propriedades como cores, fontes, posicionamento,animações e responsividade. 
 
